@@ -8,6 +8,7 @@ namespace KWebStartup
     {
         public void Configure(IBuilder app)
         {
+            app.UseStaticFiles();
             app.UseErrorPage();
 
             app.UseServices(services =>
@@ -16,8 +17,6 @@ namespace KWebStartup
             });
 
             app.UseMvc();
-
-            app.UseWelcomePage();
         }       
     }
 }
