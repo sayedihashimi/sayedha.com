@@ -41,7 +41,7 @@
 
 	h1,h2,h3,h4,h5,h6 {
 		font-weight: 900;
-		color: inherit;
+		color: white;
 	}
 	
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -713,7 +713,7 @@
 /*********************************************************************************/
 
 	#intro {
-		background: url('images/overlay.png'), url('../images/intro.jpg');
+		background: url('images/overlay.png'), url('../images/goat-1600.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -725,7 +725,7 @@
 /*********************************************************************************/
 
 	#one {
-		background: url('images/overlay.png'), url('../images/one.jpg');
+		background: url('images/overlay.png'), url('../images/yellowstone-02-1600.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -736,7 +736,7 @@
 /*********************************************************************************/
 
 	#two {
-		background: url('images/overlay.png'), url('../images/two.jpg');
+		background: url('images/overlay.png'), url('../images/yellowstone-01-1600.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -747,6 +747,10 @@
 /*********************************************************************************/
 
 	#work {
+		background: url('images/overlay.png'), url('../images/lake-1600.jpg');
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
 	}
 	
 		#work .row.images {
