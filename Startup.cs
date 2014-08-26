@@ -1,5 +1,5 @@
 using Microsoft.AspNet.Builder;
-using Microsoft.AspNet.Routing;
+using Microsoft.AspNet.StaticFiles;
 using Microsoft.Framework.DependencyInjection;
 
 namespace KWebStartup
@@ -10,13 +10,7 @@ namespace KWebStartup
         {
             app.UseStaticFiles();
             app.UseErrorPage();
-
-            app.UseServices(services =>
-            {
-                services.AddMvc();
-            });
-
-            app.UseMvc();
+            // app.UseWelcomePage();
         }
     }
 }
