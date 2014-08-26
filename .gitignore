@@ -11,7 +11,6 @@ csx/
 packages/
 BuildOutput/
 website/App_Data/PublishProfiles/
-.DS_Store
 
 # Known files to ignore always #
 *.suo
@@ -25,3 +24,5 @@ UpgradeLog*.xml
 UpgradeLog*.htm
 *.metaproj
 *.metaproj.tmp
+.DS_Store
+.yo-rc.json
