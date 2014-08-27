@@ -606,7 +606,6 @@
 		}
 
 			.dark a {
-				color: #fff;
 			}
 		
 			.dark .button.style2 {
@@ -1053,3 +1052,13 @@
 			body.touch .poptrox-popup .closer {
 				opacity: 1.0 !important;
 			}
+
+/*********************************************************************************/
+/* Customizations                                                                */
+/*********************************************************************************/
+.content  ul{
+	list-style: disc;
+	font-size: 16px;
+	line-height: 30px;
+	padding-left: 20px;
+}
