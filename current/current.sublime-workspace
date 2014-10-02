@@ -1,0 +1,481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"foo",
+				"Foo"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"messa",
+				"messages"
+			],
+			[
+				"selecto",
+				"selections"
+			],
+			[
+				"sublime",
+				"sublime_plugin"
+			],
+			[
+				"EN",
+				"EntityFramework.Design"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Startup.cs",
+			"settings":
+			{
+				"buffer_size": 471,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Controllers/HomeController.cs",
+			"settings":
+			{
+				"buffer_size": 442,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Kulture/ASP.NET.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"run k",
+				"Run K Commands"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"r",
+				"Run K Commands"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"Run K Commands"
+			],
+			[
+				"run ",
+				"Run K Commands"
+			],
+			[
+				"ru",
+				"Run K Commands"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"sssh",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sa",
+				"Sayed Try"
+			],
+			[
+				"s",
+				"Sayed Try"
+			],
+			[
+				"say",
+				"Sayed Try"
+			],
+			[
+				"saye",
+				"Sayed Try"
+			],
+			[
+				"sayed",
+				"Sayed Try"
+			],
+			[
+				"c",
+				"Check Urls"
+			],
+			[
+				"ch",
+				"Check Urls"
+			],
+			[
+				"chec",
+				"Check Urls"
+			],
+			[
+				"che",
+				"Check Urls"
+			],
+			[
+				"CH",
+				"Check Urls"
+			],
+			[
+				"C",
+				"Check Urls"
+			],
+			[
+				"check",
+				"Check Urls"
+			],
+			[
+				"set lang",
+				"Set Syntax: HTML (Erlang)"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 172.0,
+		"history":
+		[
+			"sublime.error_message('bar')",
+			"sublime.status_message('foo')",
+			"cls",
+			"clear",
+			"view.run_command('example')",
+			"view.run_command(\"example\")",
+			"ExampleCommand",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current"
+	],
+	"file_history":
+	[
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/Startup.cs",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/project.json",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/index-old.html",
+		"/Users/sayedhashimi/temp/deleted/project.json",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/README.txt",
+		"/Users/sayedhashimi/Dropbox/Dev-Related/VS2012 Modern Image Library/Actions/bmp/RemoveUsingNamespace_10480_24.bmp",
+		"/Users/sayedhashimi/Dropbox/Dev-Related/VS2012 Modern Image Library/Objects/bmp/UniqueKey_8270_24.bmp",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/Views/Home/Index.cshtml",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/images/fulls/reflection-4916.jpeg",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/images/fulls/lake-4928.jpg",
+		"/Users/sayedhashimi/.bash_history",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/css/ie/v8.css",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/css/style.css",
+		"/Users/sayedhashimi/Library/Preferences/BalsamiqMockupsForDesktop.EDE15CF69E11F7F7D45B5430C7D37CC6C3545E3C.1/Local Store/BalsamiqMockups.cfg",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/css/skel.css",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/v0/index.html",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/Views/Shared/_Layout.cshtml",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/foo.html",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/css/style-wide.css",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/v0/website.publishproj",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/sayedha.com",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/current/index.html",
+		"/Users/sayedhashimi/Documents/mycode/sayedha.com/.gitignore",
+		"/Users/sayedhashimi/Documents/mycode/sayedha/v0/project.json",
+		"/Users/sayedhashimi/Documents/mycode/sayedmac/sayedmac.sublime-project",
+		"/Users/sayedhashimi/Documents/mycode/scaffolding-samples/CustomizeScaffoldingTemplates/CustomizeScaffoldingTemplates/project.json",
+		"/Users/sayedhashimi/Library/Application Support/Sublime Text 3/Packages/SayedTest/Default.sublime-commands",
+		"/Users/sayedhashimi/Library/Application Support/Sublime Text 3/Packages/SayedTest/sayed.py",
+		"/Users/sayedhashimi/Documents/mycode/scaffolding-samples/CustomizeScaffoldingTemplates/CustomizeScaffoldingTemplates/Startup.cs",
+		"/Users/sayedhashimi/temp/sublime/sample-extension/sayed.py",
+		"/Users/sayedhashimi/Documents/mycode/scaffolding-samples/CustomizeScaffoldingTemplates/CustomizeScaffoldingTemplates/config.json",
+		"/Users/sayedhashimi/Documents/mycode/kulture.sublime-workspace",
+		"/Users/sayedhashimi/Documents/mycode/kulture.sublime-project",
+		"/Users/sayedhashimi/Documents/projects/Kulture/Kulture.sublime-project",
+		"/Users/sayedhashimi/temp/two/mvctest/Controllers/HomeController.cs",
+		"/Users/sayedhashimi/temp/Home/samples/HelloWeb/index.cshtml",
+		"/Users/sayedhashimi/temp/one/sample01/project.json",
+		"/Users/sayedhashimi/temp/one/sample01/Models/User.cs",
+		"/Users/sayedhashimi/temp/one/sample01/Views/Home/index.cshtml",
+		"/Users/sayedhashimi/temp/one/sample01/Startup.cs",
+		"/Users/sayedhashimi/temp/one/sample01/Controllers/HomeController.cs",
+		"/Users/sayedhashimi/temp/one/sample01/Views/Shared/_Layout.cshtml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ibuilder",
+			"app",
+			"Getting",
+			"the anon",
+			"red",
+			"yellowstone-01",
+			"list-style: none",
+			"list-style",
+			"I",
+			"microsoft",
+			"hey",
+			"h1",
+			"background",
+			"yellowstone-02-1600",
+			"two.jpg",
+			".jpg",
+			"one.jpg",
+			".jpg",
+			"intro.jpg",
+			"sayed_try",
+			"self.view.window()",
+			"self.window",
+			"sublime.active_window()",
+			"old"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"yellowstone-01-1600.jpg",
+			"yellowstone-02-1600",
+			"goat-1600.jpg",
+			"sublime.active_window()",
+			"self.view.window()",
+			"self.window"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Startup.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Controllers/HomeController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 377.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "current.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"s",
+				"current/css/style.css"
+			],
+			[
+				"index.csh",
+				"current/Views/Home/Index.cshtml"
+			],
+			[
+				"style.css",
+				"current/css/style.css"
+			],
+			[
+				"startp",
+				"current/Startup.cs"
+			],
+			[
+				"proje",
+				"current/project.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

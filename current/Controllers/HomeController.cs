@@ -12,11 +12,11 @@ namespace MvcSample.Web
 
         public User User()
         {
-            User user = new User()
-            {
-                Name = "My name",
-                Address = "My address"
-            };
+User user = new User()
+{
+    Name = "My name",
+    Address = "My address"
+};
 
             return user;
         }
